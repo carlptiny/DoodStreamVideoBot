@@ -7,7 +7,7 @@
         "shortner"
     ],
     "website": "https://github.com/PredatorHackerzZ/DoodstreamVideobot",
-    "repository": "https://github.com/PredatorHackerzZ/DoodstreamVideobot",
+    "repository": "https://github.com/carlptiny/DoodStreamVideoBot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token (must add)",
